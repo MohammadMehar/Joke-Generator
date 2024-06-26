@@ -28,6 +28,3 @@ document.getElementById("generateButton").onclick = async function() {
         })
     }
 };
-
-
-};
